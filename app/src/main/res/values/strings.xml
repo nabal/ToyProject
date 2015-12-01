@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">aduino</string>
+    <string name="btnComOn">컴퓨터 키기</string>
+    <string name="btnComOff">컴퓨터 끄기</string>
+    <string name="btnBlueStart">블루투스연결시작</string>
+    <string name="btnNetConnStart">소켓연결시작</string>
+</resources>
